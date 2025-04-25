@@ -21,6 +21,12 @@ Participants work on a case for **PowerCo**, a utility company facing declining 
 - Identify key patterns and trends:
   + The churn rate is lowest for both new and long-term customers.
   + Highest churn is concentrated around customers with 3 to 7 years of tenure, suggesting mid-life contracts are more at risk.
+  + Low-volume customers dominate the customer base and seem to make up most churners.
+  + High-volume outliers exist but are rare, and they appear less likely to churn — possibly due to better service terms or more personalized retention efforts.
+  + Consumption levels alone don’t strongly distinguish churners from retainers, but may still play a role in a multi-variable model.
+  + Customer cohorts from 2010–2012 are critical to analyze further for churn risk—large in volume with notable churn rates.
+  + Early cohorts have high retention, potentially worth studying for retention best practices or segmentation.
+  + A drop in new activations post-2012 may suggest internal changes, market saturation, or external competition—this period is worth investigating.
 
 ### 3. Feature Engineering
 - Identify churn drivers.
