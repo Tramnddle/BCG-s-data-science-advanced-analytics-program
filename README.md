@@ -18,7 +18,9 @@ Participants work on a case for **PowerCo**, a utility company facing declining 
 ### 2. Exploratory Data Analysis & Data Cleaning
 - Analyze customer and pricing data.
 - Handle missing values, duplicates, and outliers.
-- Identify key patterns and trends.
+- Identify key patterns and trends:
+  + The churn rate is lowest for both new and long-term customers.
+  + Highest churn is concentrated around customers with 3 to 7 years of tenure, suggesting mid-life contracts are more at risk.
 
 ### 3. Feature Engineering
 - Identify churn drivers.
@@ -40,4 +42,7 @@ Participants work on a case for **PowerCo**, a utility company facing declining 
 - Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
 - Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 - Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
+
+## Result on the discount hypothesis:
+
 
