@@ -44,5 +44,13 @@ Participants work on a case for **PowerCo**, a utility company facing declining 
 - Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
 
 ## Result on the discount hypothesis:
+- A 20% discount can effectively retain revenue, especially if applied strategically.
 
+- Churn probability alone isn’t sufficient; revenue value of customers should also be considered.
+
+- Future improvements may include:
+
+- Optimizing both discount level and cut-off threshold (2D optimization).
+
+- Modeling churn likelihood as a function of discount level to better predict customer response.
 
